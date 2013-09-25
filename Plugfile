@@ -1,3 +1,4 @@
 Plug 'junegunn/Zenburn'
 Plug 'junegunn/jellybeans.vim'
 Plug 'junegunn/dummy1'
+Plug 'junegunn/dummy3'
